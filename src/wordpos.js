@@ -167,7 +167,7 @@ var WordPOS = function(options) {
   var dictPath;
 
   this.options = _.defaults({}, _.isObject(options) && options || {}, {
-    dictPath: './dict'
+    dictPath: '../dict'
   }, WordPOS.defaults);
 
   dictPath = this.options.dictPath;
