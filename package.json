@@ -33,7 +33,6 @@
   },
   "main": "./src/wordpos.js",
   "scripts": {
-    "postinstall": "node tools/stat.js --no-stats index.adv index.adj index.verb index.noun",
     "test": "mocha test"
   },
   "license": "MIT"
