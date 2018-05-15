@@ -12,7 +12,7 @@
     "adverbs",
     "verbs"
   ],
-  "homepage": "https://github.com/moos/wordpos",
+  "homepage": "https://github.com/WonkyStar/wordpos",
   "engines": {
     "node": ">=0.12"
   },
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/moos/wordpos.git"
+    "url": "git://github.com/WonkyStar/wordpos"
   },
   "main": "./src/wordpos.js",
   "scripts": {
